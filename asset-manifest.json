@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Rahulcoder2004/RahulPortfolio/static/css/main.e6c13ad2.css",
+    "main.js": "/Rahulcoder2004/RahulPortfolio/static/js/main.0cb2f0ef.js",
+    "static/js/453.af98b1be.chunk.js": "/Rahulcoder2004/RahulPortfolio/static/js/453.af98b1be.chunk.js",
+    "index.html": "/Rahulcoder2004/RahulPortfolio/index.html",
+    "main.e6c13ad2.css.map": "/Rahulcoder2004/RahulPortfolio/static/css/main.e6c13ad2.css.map",
+    "main.0cb2f0ef.js.map": "/Rahulcoder2004/RahulPortfolio/static/js/main.0cb2f0ef.js.map",
+    "453.af98b1be.chunk.js.map": "/Rahulcoder2004/RahulPortfolio/static/js/453.af98b1be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.0cb2f0ef.js"
+  ]
+}
